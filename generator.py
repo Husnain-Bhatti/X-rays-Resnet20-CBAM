@@ -54,3 +54,6 @@ for image in data:
 		# from the loop
 		if total == 50: #total no of generated augmented imgs from each image
 			break
+
+	def gittest():
+		pass
